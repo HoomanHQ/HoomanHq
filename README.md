@@ -16,17 +16,6 @@ Welcome to Hooman Digital, where we specialize in fostering development through 
 ### About Us
 
 At Hooman Digital, we're not just a team of digital experts; we're a group of individuals committed to creating authentic, innovative, immersive, and intuitive digital solutions. Whether it's designing/developing a new website or developing a brand identity, we're dedicated to delivering subtle and forward-thinking digital experiences.
-
-### We Do
-
-We have wide range of digital capabilities:
-
-1. **UI/UX Design**
-2. **Website Development**
-3. **Content Writing**
-4. **Branding**
-5. **Partnerships**
-6. **Web3/Web2 SAAS**
    
 
 ### Let’s Make Things Happen

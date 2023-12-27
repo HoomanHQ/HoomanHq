@@ -8,7 +8,7 @@ Welcome to Hooman Digital, where we specialize in fostering development through 
 
 - Web Design/Development
 - UI/UX Design
-- Web3 SAAS
+- Web3 SAAS (UI/UX)
 - Content Creation
 - Branding
 - Community Management
@@ -25,6 +25,6 @@ No matter your digital needs, we have the expertise and experience to help you s
 
 **Hooman Digital**
 
-- Email: [piyushch377@gmail.com](piyushch377@gmail.com)
+- Email: [hoomanhr@hooman.digital](hoomanhr@hooman.digital)
 
 Copyright © 2023. All Rights Reserved.

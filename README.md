@@ -25,6 +25,7 @@ No matter your digital needs, we have the expertise and experience to help you s
 
 **Hooman Digital**
 
-- Email: [hoomanhr@hooman.digital](hoomanhr@hooman.digital)
+- Website: [Hooman Digital](https://hooman.digital/)
+- Email: [hoomandigital18@gmail.com](hoomandigital18@gmail.com)
 
 Copyright © 2023. All Rights Reserved.

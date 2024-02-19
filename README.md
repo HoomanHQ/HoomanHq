@@ -28,4 +28,4 @@ No matter your digital needs, we have the expertise and experience to help you s
 - Website: [Hooman Digital](https://hooman.digital/)
 - Email: [hoomandigital18@gmail.com](hoomandigital18@gmail.com)
 
-Copyright © 2023. All Rights Reserved.
+Copyright © 2024. All Rights Reserved.
